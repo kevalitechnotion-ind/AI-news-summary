@@ -1,0 +1,14 @@
+{
+  "best_news": {
+    "title": "AI Search Engine Perplexity Makes Audacious Multi-Billion Dollar Bid for Google Chrome",
+    "summary": "AI search engine Perplexity has made an audacious, unsolicited $34.5 billion cash offer to acquire Google Chrome, promising to keep its underlying Chromium engine open source and retain Google as the default search provider. This bold move signals a significant challenge to Google's browser dominance and highlights the aggressive competition in the AI search landscape."
+  },
+  "most_viral_news": {
+    "title": "Sam Altman's New Brain-Tech Startup, 'Merge Labs,' Set to Challenge Elon Musk's Neuralink with OpenAI Backing",
+    "summary": "OpenAI CEO Sam Altman is reportedly co-founding 'Merge Labs,' a new brain-to-computer interface startup valued at $850 million, potentially backed by OpenAI Ventures. This ambitious venture aims to directly challenge Elon Musk's Neuralink, signaling Altman's expanding influence into cutting-edge neurotechnology."
+  },
+  "relevant_news": {
+    "title": "Anthropic's Claude AI Unleashes 1 Million Token Power for Developers!",
+    "summary": "Anthropic has dramatically expanded its Claude Sonnet 4 AI model, now offering a massive 1 million token context window for enterprise and developers. This fivefold increase allows Claude to process up to 750,000 words or 75,000 lines of code, significantly surpassing competitors like OpenAI's GPT-5 and unlocking new possibilities for complex AI applications."
+  }
+}
