@@ -30,7 +30,6 @@ This project provides an AI-powered news aggregation and summarization system fo
    Create a `.env` file with:
    ```
    GEMINI_API_KEY=your_google_gemini_api_key
-   MONGO_URI=mongodb://localhost:27017/
    ```
 
 3. **Process Articles**:
